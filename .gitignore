@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build
+build/
+dist/
+*.spec
+
+# Assets (keep logo, ignore generated/temp if any)
+# assets/logo.ico (keep)
+
+# OS
+.DS_Store
+Thumbs.db
