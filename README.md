@@ -26,3 +26,10 @@ python benameur_editeur_v3_7.py
 جميع الحقوق محفوظة © 2026 - برعاية أستاذ المعلوماتية بن عامر محمد.
 ---
 Designed with ❤️ for Algerian Students.
+
+
+--- 
+### 💰 Support the Project | ادعم المشروع
+If you find my work helpful, consider supporting the development and educational missions of **Benameur Soft**.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/benameursoft)
